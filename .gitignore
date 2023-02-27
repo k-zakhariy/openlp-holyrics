@@ -1,0 +1,5 @@
+.DS_Store
+/output
+/songs
+
+__pycache__
