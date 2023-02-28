@@ -1,5 +1,5 @@
 .DS_Store
-/output/*.txt
+/output/*
 /songs/*.xml
 
 __pycache__
